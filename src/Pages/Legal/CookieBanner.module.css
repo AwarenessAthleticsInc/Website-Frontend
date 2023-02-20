@@ -1,0 +1,19 @@
+.cookieBanner {
+    position: fixed;
+    z-index: 100000;
+    bottom: 0%;
+    right: 0;
+    left: 0;
+    background-clip: border-box;
+    border: 1px solid #d2d2dc;
+    background-color: #fafafa;
+
+}
+.cookieBackground {
+    opacity: 2;
+    /* padding: 25%; */
+}
+
+.cookieBanner i {
+    color: #0093E9;
+}
